@@ -1,0 +1,17 @@
+C:\Users\dadai\Desktop\учеба\ООП\7 robota\WinFormsApp2\WinFormsApp2\obj\Debug\net7.0-windows\WinFormsApp2.csproj.AssemblyReference.cache
+C:\Users\dadai\Desktop\учеба\ООП\7 robota\WinFormsApp2\WinFormsApp2\obj\Debug\net7.0-windows\WinFormsApp2.FrmMass.resources
+C:\Users\dadai\Desktop\учеба\ООП\7 robota\WinFormsApp2\WinFormsApp2\obj\Debug\net7.0-windows\WinFormsApp2.csproj.GenerateResource.cache
+C:\Users\dadai\Desktop\учеба\ООП\7 robota\WinFormsApp2\WinFormsApp2\obj\Debug\net7.0-windows\WinFormsApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dadai\Desktop\учеба\ООП\7 robota\WinFormsApp2\WinFormsApp2\obj\Debug\net7.0-windows\WinFormsApp2.AssemblyInfoInputs.cache
+C:\Users\dadai\Desktop\учеба\ООП\7 robota\WinFormsApp2\WinFormsApp2\obj\Debug\net7.0-windows\WinFormsApp2.AssemblyInfo.cs
+C:\Users\dadai\Desktop\учеба\ООП\7 robota\WinFormsApp2\WinFormsApp2\obj\Debug\net7.0-windows\WinFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\dadai\Desktop\учеба\ООП\7 robota\WinFormsApp2\WinFormsApp2\bin\Debug\net7.0-windows\WinFormsApp2.exe
+C:\Users\dadai\Desktop\учеба\ООП\7 robota\WinFormsApp2\WinFormsApp2\bin\Debug\net7.0-windows\WinFormsApp2.deps.json
+C:\Users\dadai\Desktop\учеба\ООП\7 robota\WinFormsApp2\WinFormsApp2\bin\Debug\net7.0-windows\WinFormsApp2.runtimeconfig.json
+C:\Users\dadai\Desktop\учеба\ООП\7 robota\WinFormsApp2\WinFormsApp2\bin\Debug\net7.0-windows\WinFormsApp2.dll
+C:\Users\dadai\Desktop\учеба\ООП\7 robota\WinFormsApp2\WinFormsApp2\bin\Debug\net7.0-windows\WinFormsApp2.pdb
+C:\Users\dadai\Desktop\учеба\ООП\7 robota\WinFormsApp2\WinFormsApp2\obj\Debug\net7.0-windows\WinFormsApp2.dll
+C:\Users\dadai\Desktop\учеба\ООП\7 robota\WinFormsApp2\WinFormsApp2\obj\Debug\net7.0-windows\refint\WinFormsApp2.dll
+C:\Users\dadai\Desktop\учеба\ООП\7 robota\WinFormsApp2\WinFormsApp2\obj\Debug\net7.0-windows\WinFormsApp2.pdb
+C:\Users\dadai\Desktop\учеба\ООП\7 robota\WinFormsApp2\WinFormsApp2\obj\Debug\net7.0-windows\WinFormsApp2.genruntimeconfig.cache
+C:\Users\dadai\Desktop\учеба\ООП\7 robota\WinFormsApp2\WinFormsApp2\obj\Debug\net7.0-windows\ref\WinFormsApp2.dll
